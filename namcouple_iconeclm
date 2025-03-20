@@ -8,7 +8,7 @@
  $END
 #
  $NLOGPRT
-  1 0
+  __msglvl__ 0
  $END
 #
  $STRINGS
