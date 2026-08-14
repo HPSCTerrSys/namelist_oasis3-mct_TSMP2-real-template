@@ -1,6 +1,6 @@
 #
  $NFIELDS
-  19 
+  20
  $END
 #
  $RUNTIME
@@ -77,6 +77,13 @@ __icongp__ 1 __eclmgpx__ __eclmgpy__ gicon gclm SEQ=1
 R 0 R 0
 LOCTRANS
 INSTANT
+#
+ICOTOPOG CLMTOPOG 1 __cpltsp_as__ 1 icon12.nc EXPORTED
+__icongp__ 1 __eclmgpx__ __eclmgpy__ gicon gclm SEQ=1
+R 0 R 0
+LOCTRANS
+INSTANT
+#
 # FROM CLM TO ICOMO
 CLMTAUX ICO_TAUX 1 __cpltsp_as__ 1 clm04.nc EXPORTED
 __eclmgpx__ __eclmgpy__ __icongp__ 1 gclm gicon SEQ=2

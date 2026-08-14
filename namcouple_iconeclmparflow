@@ -1,6 +1,6 @@
 #
  $NFIELDS
-  22
+  23
  $END
 #
  $RUNTIME
@@ -77,6 +77,13 @@ __icongp__ 1 __eclmgpx__ __eclmgpy__ gicon gclm SEQ=1
 R 0 R 0
 LOCTRANS
 INSTANT
+#
+ICOTOPOG CLMTOPOG 1 __cpltsp_as__ 1 icon12.nc EXPORTED
+__icongp__ 1 __eclmgpx__ __eclmgpy__ gicon gclm SEQ=1
+R 0 R 0
+LOCTRANS
+INSTANT
+#
 # FROM PARFLOW TO CLM 
 PFL_SOILLIQ ECLM_SOILLIQ 1 __cpltsp_ss__ 1 pfl_sat.nc EXPORTED
 __parflowgpx__ __parflowgpy__ __eclmgpx__ __eclmgpy__ gpfl gclm SEQ=2
