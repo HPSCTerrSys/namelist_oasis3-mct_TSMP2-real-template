@@ -1,6 +1,6 @@
 #
  $NFIELDS
-  23
+  24
  $END
 #
  $RUNTIME
@@ -111,6 +111,12 @@ INSTANT
 #
 CLMLHFLX ICOLHFLX 1 __cpltsp_as__ 1 clm07.nc EXPORTED
 __eclmgpx__ __eclmgpy__ __icongp__ 1 gclm gicon SEQ=3
+R 0 R 0
+LOCTRANS
+INSTANT
+#
+CLM_RAH1 ICO_RAH1 1 __cpltsp_as__ 1 clm08.nc EXPORTED
+__eclmgpx__ __eclmgpy__ __icongp__ 1 gclm gicon SEQ=2
 R 0 R 0
 LOCTRANS
 INSTANT
